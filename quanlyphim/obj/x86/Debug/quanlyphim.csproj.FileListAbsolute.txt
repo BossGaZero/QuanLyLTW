@@ -1,0 +1,9 @@
+C:\Users\DELL\Desktop\quanlylap\quanlylap\quanlylap\quanlyphim\bin\Debug\quanlyphim.exe
+C:\Users\DELL\Desktop\quanlylap\quanlylap\quanlylap\quanlyphim\bin\Debug\quanlyphim.pdb
+C:\Users\DELL\Desktop\quanlylap\quanlylap\quanlylap\quanlyphim\obj\x86\Debug\quanlyphim.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\quanlylap\quanlylap\quanlylap\quanlyphim\obj\x86\Debug\quanlyphim.Form1.resources
+C:\Users\DELL\Desktop\quanlylap\quanlylap\quanlylap\quanlyphim\obj\x86\Debug\quanlyphim.Properties.Resources.resources
+C:\Users\DELL\Desktop\quanlylap\quanlylap\quanlylap\quanlyphim\obj\x86\Debug\quanlyphim.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\quanlylap\quanlylap\quanlylap\quanlyphim\obj\x86\Debug\quanlyphim.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\quanlylap\quanlylap\quanlylap\quanlyphim\obj\x86\Debug\quanlyphim.exe
+C:\Users\DELL\Desktop\quanlylap\quanlylap\quanlylap\quanlyphim\obj\x86\Debug\quanlyphim.pdb
